@@ -1,0 +1,20 @@
+.interactive {
+  cursor:pointer;
+  color: blue;
+}
+
+.interactive:hover {
+  text-decoration: underline;
+}
+
+#porche {
+  display:none;
+}
+
+#ferrari {
+  display:none;
+}
+
+#ferrari2 {
+  display: none;
+}
